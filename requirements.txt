@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+joblib
+pillow
+google-genai
+
+# Optional — only if you later add Google Sheets logging on the receipts page:
+# gspread
+# google-auth
